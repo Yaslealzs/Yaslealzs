@@ -1,16 +1,13 @@
-## Hello dear👋
+## Seja bem vindo ao meu perfil
+*Meu nome é: Yasmin Leal Oliveira*
 
-<!--
-**Yaslealzs/Yaslealzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou estudando no Domingos Quirino Ferreira Coronel
 
-Here are some ideas to get you started:
+Tenho 15 anos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with school
-- 💬 Ask me about kids
-- 📫 How to reach me: email:yaslealzs@gmail.com
-Pronouns: she/her
-- ⚡ Fun fact: im so funny and cool
+Moro em São Paulo-SP
+
+Tenho 8 anos de curso de ingles (CNA)
+
+Meu email é yaslealzs@gmail.com
 -->
